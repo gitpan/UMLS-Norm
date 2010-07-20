@@ -44,12 +44,12 @@ __END__
 
 =head1 NAME
 
-UMLS::Norm - Perl extension for blah blah blah
+UMLS::Norm - Perl extension for UMLS-Norm based term normalization
 
 =head1 SYNOPSIS
 
   use UMLS::Norm;
-  blah blah blah
+  UMLS-Norm based term normalization
 
 =head1 DESCRIPTION
 
@@ -57,7 +57,7 @@ Stub documentation for UMLS::Norm, created by h2xs. It looks like the
 author of the extension was negligent enough to leave the stub
 unedited.
 
-Blah blah blah.
+UMLS-Norm based term normalization
 
 =head2 EXPORT
 
